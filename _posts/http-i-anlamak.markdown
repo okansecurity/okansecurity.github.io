@@ -2,7 +2,7 @@
 layout: post
 title:  "HTTP'i anlamak"
 date:   2025-01-14 22:41:19 +0300
-categories: WEB'e giriş
+categories: WEB
 ---
 
 Öncelikle herkese merhaba arkadaşlar, bu yazımda sizinle beraber HTTP'i derinlemesine öğreneceğiz.
