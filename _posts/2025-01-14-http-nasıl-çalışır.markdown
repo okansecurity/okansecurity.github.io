@@ -19,7 +19,7 @@ Bir web sitesini ziyaret ettiğimizde HTTP veya HTTPS kullanırız ve iletişim,
 URL, tam adıyla (Uniform Resource Locator), internet dünyasında bir kaynağa nasıl ve hangi yoldan erişileceğini belirten bir yapıdır. HTTP isteklerinde mutlaka URL'leri kullanırız ve bu sayede hangi kaynağa erişmek istediğimizi belirtiriz.
 URL yapısını daha iyi anlamak isterseniz lütfek bu sayfalara gidiniz:  https://tr.wikipedia.org/wiki/URL  ,  https://medium.com/@ndbeladiya720/what-is-a-url-example-structure-of-url-92cda07a9dcc
 
-#İstekler ve yanıtlar
+<h1>İstekler ve yanıtlar</h1>
 HTTP ve HTTPS, client-server iletişim modelini kullanır. Bu modelde, client server'a istek gönderir, server ise bu isteğe karşılık yanıt verir.
 
 <h2>HTTP isteği nedir?</h2>
