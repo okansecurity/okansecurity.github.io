@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "HTTP i anlamak"
-date:   2025-01-14 22:41:19 +0300
-categories: WEB
+title:  "Welcome to Jekyll!"
+date:   2025-01-14 22:29:19 +0300
+categories: jekyll update
 ---
 
 Öncelikle herkese merhaba arkadaşlar, bu yazımda sizinle beraber HTTP'i derinlemesine öğreneceğiz.
