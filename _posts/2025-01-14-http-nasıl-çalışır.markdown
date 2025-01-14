@@ -17,7 +17,7 @@ Bir web sitesini ziyaret ettiğimizde HTTP veya HTTPS kullanırız ve iletişim,
 <h1>URL nedir?</h1>
 
 URL, tam adıyla (Uniform Resource Locator), internet dünyasında bir kaynağa nasıl ve hangi yoldan erişileceğini belirten bir yapıdır. HTTP isteklerinde mutlaka URL'leri kullanırız ve bu sayede hangi kaynağa erişmek istediğimizi belirtiriz.
-URL yapısını daha iyi anlamak isterseniz lütfek bu sayfalara gidiniz:  https://tr.wikipedia.org/wiki/URL  ,  https://medium.com/@ndbeladiya720/what-is-a-url-example-structure-of-url-92cda07a9dcc
+URL yapısını daha iyi anlamak isterseniz lütfek bu sayfalara gidiniz:  <a href="https://tr.wikipedia.org/wiki/URL"> https://tr.wikipedia.org/wiki/URL </a> ,  <a href="https://medium.com/@ndbeladiya720/what-is-a-url-example-structure-of-url-92cda07a9dcc">https://medium.com/@ndbeladiya720/what-is-a-url-example-structure-of-url-92cda07a9dcc</a>
 
 <h1>İstekler ve yanıtlar</h1>
 HTTP ve HTTPS, client-server iletişim modelini kullanır. Bu modelde, client server'a istek gönderir, server ise bu isteğe karşılık yanıt verir.
@@ -40,7 +40,7 @@ Gelelim bu yapıyı satır satır inceleyelim.
 
 Bu satırdan sonra header'lar gelir, bu sayede isteği ve gelen yanıtı daha iyi yapılandırır ve daha ayrıntılı bilgi almayı amaçlarız ve bir çok yararı bulunmaktadır.
 
-HTTP methotlarını öğrenmek için bu kaynağa bir göz atın canolar: https://mbilgil0.medium.com/http-metotlar%C4%B1-http-request-methods-90d57d574dfa
+HTTP methotlarını öğrenmek için bu kaynağa bir göz atın canolar: <a href="https://mbilgil0.medium.com/http-metotlar%C4%B1-http-request-methods-90d57d574dfa">https://mbilgil0.medium.com/http-metotlar%C4%B1-http-request-methods-90d57d574dfa</a>
 
 İkinci satırdaki `HOST: okansecurity.github.io` kısmında, hangi web sitesi veya sunucuya istek gönderileceği belirtilir. Önemli olan nokta ise, HOST kısmından sonra iki nokta üst üste (:) işaretini koymanızdır.
 
@@ -48,7 +48,7 @@ HTTP methotlarını öğrenmek için bu kaynağa bir göz atın canolar: https:/
 
 dördüncü satırda ise boş alan bırakıyorumki sunucu isteğin bittiğini anlasın diye.
 
-diğer header'ları görmek için lütfen buraya bir uğrayın: https://en.wikipedia.org/wiki/List_of_HTTP_header_fields
+diğer header'ları görmek için lütfen buraya bir uğrayın: <a href="https://en.wikipedia.org/wiki/List_of_HTTP_header_fields">https://en.wikipedia.org/wiki/List_of_HTTP_header_fields</a>
 
 
 
@@ -69,7 +69,7 @@ Content-Length: 4223
 ```
 Gelelim bu yapıyı satır satır inceleyelim.
 
-İlk satırdaki HTTP/2 200 OK kısmı, HTTP isteğimizin başarılı olup olmadığını gösterir. İlk kısım olan HTTP/2, sunucunun kullandığı HTTP sürümünü belirtir. Ardından gelen 200 ise bir HTTP durum kodudur ve yanındaki OK ifadesiyle birlikte işlemin başarılı olduğunu belirtir. Lütfen HTTP durum kodlarını iyice öğreniniz, çok işinize yarıyacak bu bağlantıya gidiniz: https://tr.wikipedia.org/wiki/HTTP_durum_kodlar%C4%B1
+İlk satırdaki HTTP/2 200 OK kısmı, HTTP isteğimizin başarılı olup olmadığını gösterir. İlk kısım olan HTTP/2, sunucunun kullandığı HTTP sürümünü belirtir. Ardından gelen 200 ise bir HTTP durum kodudur ve yanındaki OK ifadesiyle birlikte işlemin başarılı olduğunu belirtir. Lütfen HTTP durum kodlarını iyice öğreniniz, çok işinize yarıyacak bu bağlantıya gidiniz: <a href="https://tr.wikipedia.org/wiki/HTTP_durum_kodlar%C4%B1">https://tr.wikipedia.org/wiki/HTTP_durum_kodlar%C4%B1</a>
 
 sonrasında http başlıkları bulunmaktdır.
 
