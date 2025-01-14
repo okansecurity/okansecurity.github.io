@@ -7,14 +7,14 @@ categories: jekyll update
 
 Öncelikle herkese merhaba arkadaşlar, bu yazımda sizinle beraber HTTP'i derinlemesine öğreneceğiz.
 
-#HTTP nedir?
+<h1>HTTP nedir?</h1>
 
 HTTP, tam adıyla (HyperText Transfer Protocol), OSI modelinin 7. katmanında yer alan bir server client iletişim modelini sağlayan uygulama protokolüdür. Web sayfalarının kullanıcılar tarafından erişilmesini ve görüntülenmesini sağlamak amacıyla kullanılır.
 HTTPS, tam adıyla (HyperText Transfer Protocol Secure), HTTP'nin güvenli bir versiyonudur. Buda, HTTP verilerinin şifrelenerek iletilmesini sağlar. HTTP'S de genellike TLS/SSL gibi güvenlik protokolleri yer alır.
 
 Bir web sitesini ziyaret ettiğimizde HTTP veya HTTPS kullanırız ve iletişim, istek-yanıt prensibine dayanır. Bu istek-yanıt yapısını anlamadan önce, URL kavramını öğrenmek daha sağlıklı olacaktır.
 
-#URL nedir?
+<h1>URL nedir?</h1>
 
 URL, tam adıyla (Uniform Resource Locator), internet dünyasında bir kaynağa nasıl ve hangi yoldan erişileceğini belirten bir yapıdır. HTTP isteklerinde mutlaka URL'leri kullanırız ve bu sayede hangi kaynağa erişmek istediğimizi belirtiriz.
 URL yapısını daha iyi anlamak isterseniz lütfek bu sayfalara gidiniz:  https://tr.wikipedia.org/wiki/URL  ,  https://medium.com/@ndbeladiya720/what-is-a-url-example-structure-of-url-92cda07a9dcc
