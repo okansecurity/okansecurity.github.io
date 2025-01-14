@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "HTTP, nasıl çalışır"
 date:   2025-01-14 22:29:19 +0300
 categories: jekyll update
 ---
