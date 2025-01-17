@@ -40,10 +40,10 @@ Ufak bir not: Burada biz id numarasını örnek aldık, ama sizler o sırada bir
 
 IDOR tanımı bu kadar, geri kalanı sizin CTF çözerek ve bazı şeyleri kurcalayarak bulmanıza dayanır, sizin için 2 adet link bırakıyorum bu linklere gidiniz ve bu CTF'leri çözünüz.
 
-PORTSWİGGER: https://portswigger.net/web-security/all-labs#access-control-vulnerabilities 
+PORTSWİGGER: <a href="https://portswigger.net/web-security/all-labs#access-control-vulnerabilities">https://portswigger.net/web-security/all-labs#access-control-vulnerabilities</a>
 Port swigger CTF'lerinde bu konulara daha derinlemesine girebilirsiniz.
 
-TRYHACKME: https://tryhackme.com/r/room/idor
+TRYHACKME: <a href="https://tryhackme.com/r/room/idor">https://tryhackme.com/r/room/idor</a>
 Bu link üzerinden İDOR tanımını ve hashlerin nerede olduğunu görebilir ve basit bir idor ctf'i çözebilirsiniz.
 
 
