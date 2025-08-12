@@ -2,7 +2,7 @@
 layout: post
 title:  "Network Nedir?"
 date:   2025-08-12 22:14:41 +0300
-categories: Network dersleri
+categories: jekyll update
 ---
 
 # Network nedir?
