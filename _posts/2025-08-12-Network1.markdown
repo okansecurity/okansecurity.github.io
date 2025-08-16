@@ -19,8 +19,6 @@ Network topolojileri, cihazların birbirlerine nasıl bağlandığını ve bu sa
 
 <h3>BUS toploloji</h3>
 
-<img src="https://github.com/user-attachments/assets/d4870c3e-edd9-446e-bc9f-8a2511af6b2e" />
-
 <img width="1031" height="469" alt="image" src="https://github.com/user-attachments/assets/d4870c3e-edd9-446e-bc9f-8a2511af6b2e" />
 
 BUS Topolojisi, tek bir hat üzerinden, bu hattın düz bir şekilde uzanmasıyla oluşturulan bir bağlantı şeklidir. Resimde gördüğünüz gibi, bir kablo vardır ve bu kabloya bağlı cihazlar bulunur. Kablonun iki ucunda ise terminatör dediğimiz küçük parçalar yer alır. Bu parçalar, ağda veri yansımasını ve çarpışmaları önler, ileride belki ayrıntılı anlatırız dosltarım.
